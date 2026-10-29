@@ -6,13 +6,6 @@ Estudante de Inteligência Artificial e de Ciência de Dados na Universidade Pos
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square) ![Claude](https://img.shields.io/badge/Claude-B4532F?style=flat-square) ![Gemini API](https://img.shields.io/badge/Gemini%20API-5A2A1C?style=flat-square) ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-5A2A1C?style=flat-square) ![LangChain](https://img.shields.io/badge/LangChain-B4532F?style=flat-square) ![n8n](https://img.shields.io/badge/n8n-E8A07A?style=flat-square) ![Make](https://img.shields.io/badge/Make-E8A07A?style=flat-square) ![Streamlit](https://img.shields.io/badge/Streamlit-B4532F?style=flat-square) ![Selenium](https://img.shields.io/badge/Selenium-5A2A1C?style=flat-square) ![Power BI](https://img.shields.io/badge/Power%20BI-E8A07A?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-5A2A1C?style=flat-square)
 
-## Como eu construo
-
-- **Toda afirmação tem fonte.** Relatórios citam a página de onde cada informação saiu.
-- **Conta é feita em código.** A IA lê e organiza, mas valores e índices são calculados em Python.
-- **O que falta aparece.** Dado não encontrado é declarado, nunca zerado em silêncio.
-- **Uma pessoa decide.** Em processos críticos, a automação prepara e a pessoa aprova.
-
 ## Automações
 
 | Projeto | O que faz | Ferramentas |
