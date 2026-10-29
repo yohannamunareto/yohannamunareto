@@ -21,4 +21,4 @@ Estudante de Inteligência Artificial e de Ciência de Dados na Universidade Pos
 
 ## Contato
 
-[LinkedIn](https://linkedin.com/in/yohannamunareto) | yohannamunareto@gmail.com | Curitiba/PR
+[LinkedIn](https://linkedin.com/in/yohanna-munareto) | yohannamunareto@gmail.com | Curitiba/PR
